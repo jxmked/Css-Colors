@@ -1,0 +1,121 @@
+:root {
+    /** iOS - Default Aqua Colors **/
+    --da-2-red: rgb(255, 59, 48);
+    --da-2-orange: rgb(255, 149, 0);
+    --da-2-yellow: rgb(255, 204, 0);
+    --da-2-green: rgb(40, 205, 65);
+    --da-2-mint: rgb(0, 199, 190);
+    --da-2-teal: rgb(89, 173, 196);
+    --da-2-cyan: rgb(85, 190, 240);
+    --da-2-blue: rgb(0, 122, 255);
+    --da-2-indigo: rgb(88, 86, 214);
+    --da-2-purple: rgb(175, 82, 222);
+    --da-2-pink: rgb(255, 45, 85);
+    --da-2-brown: rgb(162, 132, 94);
+    --da-2-gray: rgb(142, 142, 147);
+    
+    /** iOS - Default Dark Colors **/
+    --dd-2-red: rgb(255, 69, 58);
+    --dd-2-orange: rgb(255, 159, 10);
+    --dd-2-yellow: rgb(255, 214, 10);
+    --dd-2-green: rgb(50, 215, 75);
+    --dd-2-mint: rgb(102, 212, 207);
+    --dd-2-teal: rgb(106, 196, 220);
+    --dd-2-cyan: rgb(90, 200, 245);
+    --dd-2-blue: rgb(10, 132, 255);
+    --dd-2-indigo: rgb(94, 92, 230);
+    --dd-2-purple: rgb(191, 90, 242);
+    --dd-2-pink: rgb(255, 55, 95);
+    --dd-2-brown: rgb(172, 142, 104);
+    --dd-2-gray: rgb(152, 152, 157);
+    
+    /*iOS - Vibrant Aqua Colors*/
+    --va-2-red: rgb(255, 49, 38);
+    --va-2-orange: rgb(245, 139, 0);
+    --va-2-yellow: rgb(245, 194, 0);
+    --va-2-green: rgb(30, 195, 55);
+    --va-2-mint: rgb(0, 189, 180);
+    --va-2-teal: rgb(46, 167, 189);
+    --va-2-cyan: rgb(65, 175, 220);
+    --va-2-blue: rgb(0, 112, 245);
+    --va-2-indigo: rgb(84, 82, 204);
+    --va-2-purple: rgb(159, 75, 201);
+    --va-2-pink: rgb(245, 35, 75);
+    --va-2-brown: rgb(152, 122, 84);
+    --va-2-gray: rgb(132, 132, 137);
+
+    /*iOS - Vibrant Dark COlors*/
+    --vd-2-red: rgb(255, 79, 68);
+    --vd-2-orange: rgb(255, 169, 20);
+    --vd-2-yellow: rgb(255, 224, 20);
+    --vd-2-green: rgb(60, 225, 85);
+    --vd-2-mint: rgb(108, 224, 219);
+    --vd-2-teal: rgb(68, 212, 237);
+    --vd-2-cyan: rgb(90, 205, 250);
+    --vd-2-blue: rgb(20, 142, 255);
+    --vd-2-indigo: rgb(99, 97, 242);
+    --vd-2-purple: rgb(204, 101, 255);
+    --vd-2-pink: rgb(255, 65, 105);
+    --vd-2-brown: rgb(182, 152, 114);
+    --vd-2-gray: rgb(162, 162, 167);
+
+    /*iOS - Accessible Aqua Colors*/
+    --aa-2-red: rgb(215, 0, 21);
+    --aa-2-orange: rgb(201, 52, 0);
+    --aa-2-yellow: rgb(160, 90, 0);
+    --aa-2-green: rgb(0, 125, 27);
+    --aa-2-mint: rgb(12, 129, 123);
+    --aa-2-teal: rgb(0, 130, 153);
+    --aa-2-cyan: rgb(0, 113, 164);
+    --aa-2-blue: rgb(0, 64, 221);
+    --aa-2-indigo: rgb(54, 52, 163);
+    --aa-2-purple: rgb(173, 68, 171);
+    --aa-2-pink: rgb(211, 15, 69);
+    --aa-2-brown: rgb(127, 101, 69);
+    --aa-2-gray: rgb(105, 105, 110);
+
+    /*iOS - Accessible Dark COlors*/
+    --ad-2-red: rgb(255, 105, 97);
+    --ad-2-orange: rgb(255, 179, 64);
+    --ad-2-yellow: rgb(255, 212, 38);
+    --ad-2-green: rgb(49, 222, 79);
+    --ad-2-mint: rgb(102, 212, 207);
+    --ad-2-teal: rgb(93, 230, 255);
+    --ad-2-cyan: rgb(112, 215, 255);
+    --ad-2-blue: rgb(64, 156, 255);
+    --ad-2-indigo: rgb(125, 122, 255);
+    --ad-2-purple: rgb(218, 143, 255);
+    --ad-2-pink: rgb(255, 100, 130);
+    --ad-2-brown: rgb(181, 148, 105);
+    --ad-2-gray: rgb(152, 152, 157);
+
+    /*iOS - Accessible + Vibrant Aqua Colors*/
+    --ava-2-red: rgb(194, 6, 24);
+    --ava-2-orange: rgb(173, 58, 0);
+    --ava-2-yellow: rgb(146, 81, 0);
+    --ava-2-green: rgb(0, 112, 24);
+    --ava-2-mint: rgb(11, 117, 112);
+    --ava-2-teal: rgb(0, 119, 140);
+    --ava-2-cyan: rgb(0, 103, 150);
+    --ava-2-blue: rgb(0, 64, 221);
+    --ava-2-indigo: rgb(54, 52, 163);
+    --ava-2-purple: rgb(173, 68, 171);
+    --ava-2-pink: rgb(193, 16, 50);
+    --ava-2-brown: rgb(119, 93, 59);
+    --ava-2-gray: rgb(97, 97, 101);
+
+    /*iOS - Accessible + Vibrant Dark Colors*/
+    --avd-2-red: rgb(255, 65, 54);
+    --avd-2-orange: rgb(255, 179, 64);
+    --avd-2-yellow: rgb(255, 212, 38);
+    --avd-2-green: rgb(49, 222, 75);
+    --avd-2-mint: rgb(102, 212, 207);
+    --avd-2-teal: rgb(93, 230, 255);
+    --avd-2-cyan: rgb(112, 215, 255);
+    --avd-2-blue: rgb(64, 156, 255);
+    --avd-2-indigo: rgb(125, 122, 255);
+    --avd-2-purple: rgb(218, 143, 255);
+    --avd-2-pink: rgb(255, 58, 95);
+    --avd-2-brown: rgb(181, 148, 105);
+    --avd-2-gray: rgb(152, 152, 157);
+}

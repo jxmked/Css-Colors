@@ -1,0 +1,93 @@
+:root {
+    /* iOS - Light Accessible System Gray */
+    --la-gray-1: rgb(108, 108, 112);
+    --la-gray-2: rgb(142, 142, 147);
+    --la-gray-3: rgb(174, 174, 178);
+    --la-gray-4: rgb(188, 188, 192);
+    --la-gray-5: rgb(216, 216, 220);
+    --la-gray-6: rgb(235, 235, 240);
+
+    /* iOS - Dark Accessible System Gray */
+    --da-gray-1: rgb(174, 174, 178);
+    --da-gray-2: rgb(124, 124, 128);
+    --da-gray-3: rgb(84, 84, 86);
+    --da-gray-4: rgb(68, 68 ,70);
+    --da-gray-5: rgb(54, 54, 56);
+    --da-gray-6: rgb(36, 36, 38);
+
+    /* iOS - Light Default System Gray */
+    --ld-gray-1: rgb(142, 142, 147);
+    --ld-gray-2: rgb(174, 174, 178);
+    --ld-gray-3: rgb(199, 199, 204);
+    --ld-gray-4: rgb(209, 209, 214);
+    --ld-gray-5: rgb(229, 229, 234);
+    --ld-gray-6: rgb(242, 242, 247);
+
+    /* iOS - dark Default System Gray */
+    --dd-gray-1: rgb(142, 142, 147);
+    --dd-gray-2: rgb(99, 99, 102);
+    --dd-gray-3: rgb(72, 72, 74);
+    --dd-gray-4: rgb(58, 58, 60);
+    --dd-gray-5: rgb(44, 44, 46);
+    --dd-gray-6: rgb(28, 28, 30);
+
+    /* iOS - Light Default System Colors */
+    --ld-red: rgb(255, 59, 48);
+    --ld-orange:  rgb(255, 149, 0);
+    --ld-yellow: rgb(255, 204, 0);
+    --ld-green: rgb(52, 199, 89);
+    --ld-mint: rgb(0, 199, 190);
+    --ld-teal: rgb(48, 176, 199);
+    --ld-cyan: rgb(50, `173, 230);
+    --ld-blue: rgb(0, 122, 255);
+    --ld-indigo: rgb(88, 86, 214);
+    --ld-purple: rgb(175, 82, 214);
+    --ld-pink: rgb(255, 45, 85);
+    --ld-brown: rgb(162, 132, 94);
+
+    /* iOS - Dark Default System Colors */
+    --dd-red: rgb(255, 69, 58);
+    --dd-orange:  rgb(255, 159, 10);
+    --dd-yellow: rgb(255, 214, 10);
+    --dd-green: rgb(48, 209, 88);
+    --dd-mint: rgb(102, 212, 207);
+    --dd-teal: rgb(64, 200, 224);
+    --dd-cyan: rgb(100, 210, 255);
+    --dd-blue: rgb(10, 132, 255);
+    --dd-indigo: rgb(94, 92, 230);
+    --dd-purple: rgb(191, 90, 242);
+    --dd-pink: rgb(255, 55, 95);
+    --dd-brown: rgb(172, 142, 104);
+
+    /* iOS - Light Accessible System Colors */
+    --la-red: rgb(215, 0, 21);
+    --la-orange:  rgb(201, 52, 0);
+    --la-yellow: rgb(178, 80, 0);
+    --la-green: rgb(36, 138, 61);
+    --la-mint: rgb(12, 129, 123);
+    --la-teal: rgb(0, 130, 153);
+    --la-cyan: rgb(0, 113, 164);
+    --la-blue: rgb(0, 64, 221);
+    --la-indigo: rgb(54, 52, 163);
+    --la-purple: rgb(137, 68, 171);
+    --la-pink: rgb(211, 15, 69);
+    --la-brown: rgb(127, 101, 69);
+
+    /* iOS - Dark Accessible System Colors */
+    --da-red: rgb(255, 105, 97);
+    --da-orange:  rgb(255, 179, 64);
+    --da-yellow: rgb(255, 212, 38);
+    --da-green: rgb(48, 219, 91);
+    --da-mint: rgb(102, 212, 207);
+    --da-teal: rgb(93, 230, 255);
+    --da-cyan: rgb(112, 215, 255);
+    --da-blue: rgb(64, 156, 255);
+    --da-indigo: rgb(125, 122, 255);
+    --da-purple: rgb(218, 143, 255);
+    --da-pink: rgb(255, 100, 130);
+    --da-brown: rgb(181, 148, 105);
+
+    /*Customs*/
+    --white: #f0f0f0;
+    --dark: #1f1f1f;
+}
